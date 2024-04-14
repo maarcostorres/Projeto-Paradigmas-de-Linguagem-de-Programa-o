@@ -1,1 +1,1 @@
-# Projeto-Paradigmas-de-Linguagem-de-Programa-o
+# Projeto Paradigmas de Linguagem de Programação
