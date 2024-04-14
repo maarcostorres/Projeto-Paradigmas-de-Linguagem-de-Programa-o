@@ -3,7 +3,8 @@
 - **Alunos:** Giovanni Milan Câmara Pinto e Marcos Vinicius S. Torres
 - **Professor:** Wagner Perin
 - **Período:** 3.
--Projeto enviado pelo Prof. Wagner Perin que ministra a materia de Linguagens de Programação
+- **Projeto enviado pelo Prof. Wagner Perin que ministra a materia de Linguagens de Programação**
+
 ## Instruções
 
 - Utilizamos o site **https://replit.com/~** para fazer a realização dos codigos, mas tambem pode usado o Compilador LUA BINARIES ou VSCode
